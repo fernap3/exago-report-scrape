@@ -1,0 +1,16 @@
+{
+  "name": "report-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fernap3/sql": "^1.0.4",
+    "@types/xml2js": "^0.4.8",
+    "xml2js": "^0.4.23"
+  }
+}

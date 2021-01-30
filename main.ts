@@ -61,7 +61,7 @@ async function run()
 		}
 	}
 
-	console.log("report_name function location");
+	console.log("report_name,function,location");
 	for (const reportName in functionUsage)
 	{
 		for (const funcName of functionUsage[reportName])
